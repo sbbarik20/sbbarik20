@@ -1,5 +1,3 @@
-## About Me
-
 ### 👋 Hello, World!
 
 I'm Shakti Bhusan, a 🌟 software engineer with a knack for developing scalable and efficient applications. I enjoy coding, coffee, and contributing to open-source projects.
